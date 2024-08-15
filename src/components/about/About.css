@@ -1,0 +1,14 @@
+.about-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+    
+}
+.about-photo {
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    
+}
